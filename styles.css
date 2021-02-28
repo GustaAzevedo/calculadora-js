@@ -1,0 +1,11 @@
+.input-button div button {
+    font-size: 1rem;
+}
+
+.borda-resultado {
+    border-radius: 8px;
+}
+
+.borda {
+    border-radius: 16px;
+}
